@@ -6,7 +6,7 @@ margin-top: 15px;
 margin-bottom: 15px;
 display: block;
 }
-h1{margin-left: 10%;
+.title{margin-left: 10%;
 margin-right: 10%;
 text-align: center;
 font-family: "Arial Black";
@@ -18,13 +18,22 @@ color: white;
 border-radius: 15px;
 background-color: firebrick;
 padding: 15px;
-}
+font-size: 24px;}
 header{margin-top: 10px;
 margin-bottom: 10px;
 }
 body{background-image: url(background.jpg);
 color: white;
+font-family: "Helvetica";
 }
 table{margin-left: 25%;
 margin-right: 25%;
+}
+p{margin-top: 15px;
+}
+a:link{color: firebrick;
+}
+a:visited{color: #e6b800;
+}
+#text{text-align: justify;
 }
